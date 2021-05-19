@@ -10,6 +10,7 @@
     "callsmusic"
   ],
   "repository": "https://github.com/callsmusic/callsmusic",
+  "logo": "https://telegra.ph/file/fc6275fdd1700991c0d45.jpg",
   "env": {
     "SESSION_NAME": {
       "description": "A Pyrogram session string.",
