@@ -39,7 +39,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 ## Get Your String Session By [Pyrogram](https://t.me/StringSessionGenRobot)
 ## Commands
 
-| Command | Description                                          |
+| Command | Description https://heroku.com/deploy?template=https://github.com/dinobooster1/TG-Music-Player |
 | ------- | ---------------------------------------------------- |
 | /play   | play the replied audio file or YouTube video         |
 | /pause  | pause the audio stream                               |
