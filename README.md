@@ -34,7 +34,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Damantha126/TG-Music-Player)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadewjayasekara/TG-Music-Player)
 
 ## Get Your String Session By [Pyrogram](https://t.me/StringSessionGenRobot)
 ## Commands
